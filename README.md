@@ -67,4 +67,3 @@ I’m always open to collaboration and learning new things!
 
 ---
 
-*This README was generated with ❤️ by ChatGPT.*
