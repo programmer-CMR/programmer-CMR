@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 I am a passionate software developer with a strong interest in full-stack development, DevOps, and cloud technologies. I enjoy building scalable and efficient applications, contributing to open-source projects, and learning new tools and frameworks.
 
-- 🔭 Currently working on **[readme-agent](https://github.com/programmer-CMR/readme-agent)** and other exciting projects.
+- 🔭 Currently working on **[readme-agent](https://github.com/programmer-CMR/readme-agent)** and other exciting projects. 
 - 🌱 Constantly learning about **Kubernetes, Docker, and CI/CD pipelines**.
 - 👯 I love collaborating on open-source and community-driven projects.
 - 💬 Ask me about **JavaScript, Python, Git, and modern web technologies**.
